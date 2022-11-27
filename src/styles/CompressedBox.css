@@ -24,7 +24,11 @@
     border: 0px solid black;
     color: white;
     background-color: rgba(255, 0, 0, 0.20);
+<<<<<<< HEAD
     border-radius: 0 0 1.5vw 0;
+=======
+    border-radius: 0 0 2vw 0;
+>>>>>>> d949efd (brand new desktop flexbox layout)
     margin-top: 1.5vw;
 }
 
@@ -250,7 +254,11 @@
     font-size: 1vw;
     width: 13.2vw;
     height: 3vw;
+<<<<<<< HEAD
     padding: 0.8vw;
+=======
+    padding: 1vw;
+>>>>>>> d949efd (brand new desktop flexbox layout)
 }
 
 .hovered_color_original_mobile,
