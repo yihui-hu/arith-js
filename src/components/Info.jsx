@@ -42,7 +42,7 @@ const Info = () => {
           <br></br>
           <h4 className="header_text">Source files?</h4>
           <hr></hr>
-          <h4>Available <a href="https://github.com/yihui-hu/arith" target="_blank" className="link">here</a> on GitHub. Also, if you find any issues / bugs, please let me know via email → yyihui.hu @ gmail.com. Thanks in advance :)
+          <h4>Available upon request via email → yyihui.hu @ gmail.com. Also, if you find any issues / bugs, please let me know, thanks in advance :)
           </h4>
           {isDesktop ?
             <>
