@@ -1,3 +1,0 @@
-[submodule "src/js"]
-	path = src/js
-	url = https://github.com/yihui-hu/arithJS-src
