@@ -52,11 +52,7 @@ a, a:hover, a:visited, a:active {
     border: 0px solid black;
     color: white;
     background-color: #C9D5F8;
-<<<<<<< HEAD
     border-radius: 1.5vw 0 0 0;
-=======
-    border-radius: 2vw 0 0 0;
->>>>>>> d949efd (brand new desktop flexbox layout)
     margin-top: 1.5vw;
 }
 
@@ -275,11 +271,7 @@ a, a:hover, a:visited, a:active {
 }
 
 .compression_sizes {
-<<<<<<< HEAD
     margin-top: -1.5vw;
-=======
-    margin-top: -2vw;
->>>>>>> d949efd (brand new desktop flexbox layout)
     display: flex;
     place-items: center;
     gap: 1.4vw;
