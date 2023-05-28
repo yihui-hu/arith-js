@@ -4,7 +4,9 @@
 
 ## Background
 
-arith began as a CLI image compressor / decompressor that my friend Toby and I built in C[^1] for a [college class](https://github.com/yihui-hu/cs40). I ported all the code over to JavaScript so it could [run on the web](https://arith.vercel.app)!
+arith began as a CLI image compressor / decompressor that my friend Toby and I built in C[^1] for a [college class](https://github.com/yihui-hu/cs40).  
+
+I subsequently ported the C code over to JavaScript so it could [run on the web](https://arith.vercel.app)!
 
 ## About arith
 
